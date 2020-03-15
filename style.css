@@ -1,0 +1,8 @@
+html {
+    position: fixed;
+    overflow: hidden;
+}
+
+body {
+    margin: 0;
+}
